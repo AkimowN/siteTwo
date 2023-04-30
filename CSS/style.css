@@ -36,6 +36,10 @@
     gap: 50px;
 
 }
+.img-mac {
+    background-image: url(/Img/macbook-air-2020-apple-event-black-background-3840x2160-3304\ 1.png);
+    height: 475px;
+}
 .textMac .text h2{
     padding-top: 111px;
     display: flex;
@@ -81,7 +85,7 @@
     border-radius: 40px;
 }
 .slide {
-    background: #FFFEFE;
+    background-color: #FFFEFE;
 }
 .slide .wrapper {
     display: flex;
@@ -205,4 +209,202 @@
     justify-content: center;
     text-align: center;
 }
-
+.slideTwo .airpods {
+    display: flex;
+    justify-content: center;
+}
+.slideTwo .img {
+    background-image: url(/Img/hostaphoto-XFhny3yLA0c-unsplash\ 1.png);
+    width: 732px;
+    height: 542px;
+    margin-top: 16px;
+}
+.slideTwo .text .btn {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 16px;
+}
+.slideTwo .text .btn{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    padding-top: 405px;
+    gap: 63px;;
+}
+.slideTwo .text .btn .btnOne{
+    color:#FFFFFF;
+    width: 140px;
+    height: 50px; 
+    background: #3946AF;
+    border-radius: 40px;
+}
+.slideTwo .text .btn .btnTwo{
+    color: #1929A7;
+    width: 140px;
+    height: 50px; 
+    border: 1px solid #1929A7;
+    border-radius: 40px;
+}
+.airpods-text {
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 35px;
+    padding-top: 104px;
+    text-align: center;
+}
+.slideThree {
+    display: flex;
+    justify-content: center;
+    padding-top: 129px;
+}
+.slideThree .cards {
+    display: flex;
+    justify-content: center;
+    gap: 34px;
+}
+.slideThree .cards .card {
+    background: #FFFFFF;
+    border: 0.5px solid rgba(57, 70, 175, 0.3);
+    box-shadow: 0px 15px 30px -10px rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+    width: 239px;
+    height: 316px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.slideThree .cards .card p {
+    padding-top: 9px;
+    font-weight: 700;
+    font-size: 17px;
+    text-align: center;
+}
+.slideThree .cards .card span {
+    font-weight: 700;
+    font-size: 17px;
+}
+.slideThree .cards .card h2 {
+    padding-top: 17px;
+}
+.slideThree .card .btn {
+    display: flex;
+    gap: 21px;
+    padding-top: 14px;
+}
+.slideThree .card .btn .btnOne {
+    background: #3946AF;
+    border-radius: 22px;
+    width: 80px;
+    height: 40px;
+    color: #FFFFFF;
+}
+.slideThree .card .btn .btnTwo {
+    color: #3946AF;
+    font-size: 14px;
+    border: 1px solid #3946AF;
+    border-radius: 22px;
+    width: 80px;
+    height: 40px;
+}
+.slideThree .wrapper .text {
+    display: flex;
+    justify-content: center;
+    padding-top: 22px;
+    text-decoration: underline;
+}
+.slideThree .wrapper .text a {
+    color: #000000;
+} 
+.slideFour{
+    background-image: url(/Img/image\ 16.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 100%;
+    margin-top: 53px;
+}
+.slideFour .text {
+    display: flex;
+    justify-content: center;
+    padding-top: 300px;
+}
+.slideFour p {
+    font-weight: 700;
+    font-size: 127px;
+}
+.slideFour .btn {
+    display: flex;
+    gap: 34px;
+    justify-content: center;
+    padding-top: 256px;
+}
+.slideFour .btnOne {
+    background: #3946AF;
+    border-radius: 40px;
+    color: #FFFFFF;
+    width: 140px;
+    height: 50px;
+}
+.slideFour .btnTwo {
+    color: #3946AF;
+    width: 140px;
+    height: 50px;
+    border: 1px solid #3946AF;
+    border-radius: 21px;
+}
+.footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 140px;
+}
+.footer .text {
+    font-weight: 700;
+    font-size: 17px;
+}
+.footer p {
+    margin-top: 12px;
+}
+.footer .texts1{
+    padding-right: 66px;
+}
+.footer .texts2 {
+    padding-right: 85px;
+}
+.footer .texts3 {
+    padding-right: 89px;
+}
+.footer .texts4 {
+    padding-top: 16px;
+}
+.footer .texts5 {
+    padding-right: 81px;
+}
+.footer .texts6 {
+    padding-top: 30px;
+}
+.footer .texts7 {
+    padding-top: 16px;
+}
+.img-footer {
+    padding-top: 151px;
+    padding-left: 71px;
+}
+.border-footer {
+    display: flex;
+    justify-content: center;
+    border: 1px solid #767474;
+    margin-top: 11px;
+}
+.device{
+    height: 20px;
+    border: 1px solid #767474;
+}
+.footer-text{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 46px;
+    margin-top: 12px;
+    margin-bottom: 33px;
+}
